@@ -21,8 +21,8 @@ I simply followed [the guide](https://www.youtube.com/watch?v=CcismZ0uZ1A) by th
 # Finding My Server
 My server uses the -fakeip startup command as a security measure as well as a greifing deterrent, that means that you cannot favorite the server.
 
-There is a way to [fix/stop](https://steamcommunity.com/sharedfiles/filedetails/?id=1960312187) -fakeip from doing this, But at the moment of writing this, I do not feel like going that far.
+There is a way to [fix/stop](https://steamcommunity.com/sharedfiles/filedetails/?id=1960312187) -fakeip from preventing favoriting a server, But at the moment of writing this, I do not feel like going that far.
 
-To find my server(or any other server that uses this method), you may either need to install a clientside mod to allow you to search/favorite for server's by name, or know at least one of the server's unique tags and enter said tag into the search bar.
+To find my server(or any other server that uses this method), you may either need to install a clientside mod to allow you to search/favorite for server's by name, or know at least one of the server's unique tags and enter said tag into the tag search bar.
 
 My server is nammed "Kasuxae's Random Shenanigans Server" and the most unique tag on the server is "advancedbots".
