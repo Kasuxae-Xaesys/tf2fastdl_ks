@@ -1,5 +1,5 @@
 # Team Fortress 2 FastDL For Kasuxae's Random Shenanigans Server
-My TF2 Server map downloads using a github respository as a base.
+My TF2 Server file downloads using a github respository as a base to download from.
 
 # Why Did I Do It Like This?
 This little project started as a way to get my own TF2 server hosted on my own machine for me and my friends without having to worry about paying a service to host one for me.
