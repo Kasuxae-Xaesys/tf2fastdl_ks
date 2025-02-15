@@ -13,7 +13,7 @@ Having to scour the internet in search of information on the most cost effective
 
 I just do my own thing with little regard of the consequences when I feel like I can get away with it.
 
-Honestly I am unsure if this is even allowed on githib because I can not find a concrete answer either in the terms of service or online, However if somehow this IS allowed on github, then GREAT!
+Honestly I am unsure if this is even allowed on github because I can not find a concrete answer either in the terms of service or online, However if somehow this IS allowed on github, then GREAT!
 
 # How To Do It
 I simply followed [the guide](https://www.youtube.com/watch?v=CcismZ0uZ1A) by the lovely "Sour Dani" on youtube, However I may add a refined text based guide here if I somehow got requested to do so by enough people.
