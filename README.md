@@ -3,7 +3,7 @@ My TF2 Server file downloads using a github respository as a base to download fr
 
 # Why Did I Do It Like This?
 This little project started as a way to get my own TF2 server hosted on my own machine for me and my friends without having to worry about paying a service to host one for me.
-It then turned into a rabbit hole of trying to find the easiest and most cost effective way for me to have custom maps and such to get sent to clients that join without having to pay a webserver to host the files.
+It then turned into a rabbit hole of trying to find the easiest and most cost effective way for me to have custom maps and such get sent to clients that join without having to pay a webserver to host the files.
 
 # Final Notes And Thoughts
 If I suddenly had a penny every time I had run into poor people problems, I would be set for life.
