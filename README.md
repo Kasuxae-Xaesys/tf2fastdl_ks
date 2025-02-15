@@ -8,5 +8,5 @@ It then turned into a rabbit hole of trying to find the easiest and most cost ef
 # Final Notes And Thoughts
 If I suddenly had a penny every time I had run into poor people problems, I would be set for life.
 Having to scour the internet in search of information on the most cost effective way to do somthing is hard considering almost everyone wants to get richer.
-I just do my own thing with little regard of the consequences when i feel like i can get away with it.
+I just do my own thing with little regard of the consequences when I feel like I can get away with it.
 Honestly I am unsure if this is even allowed on githib because I can not find a concrete answer either in the terms of service or online, However if somehow this IS allowed on github, then GREAT!
