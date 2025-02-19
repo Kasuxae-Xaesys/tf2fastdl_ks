@@ -1,4 +1,4 @@
-# Team Fortress 2 FastDL For Kasuxae's Random Shenanigans Server
+# Team Fortress 2 FastDL For Kasuxae's Server
 My TF2 Server file downloads using a github respository as a "FASTDL" "server".
 
 # Why Did I Do It Like This
