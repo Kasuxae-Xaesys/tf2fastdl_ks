@@ -19,10 +19,10 @@ Honestly I am unsure if this is even allowed on github because I can not find a 
 I simply followed [the guide](https://www.youtube.com/watch?v=CcismZ0uZ1A) by the lovely "Cyanide/Sour Dani" on youtube, However I may add a refined text based guide here if I somehow got requested to do so by enough people.
 
 # Finding My Server
-My server uses the -fakeip startup command as a security measure as well as a greifing deterrent, that means that you cannot favorite the server.
+My server uses the steam networking startup command as a security measure as well as a greifing deterrent.
 
-There is a way to [fix/stop](https://steamcommunity.com/sharedfiles/filedetails/?id=1960312187) -fakeip from preventing favoriting a server, But at the moment of writing this, I do not feel like going that far for my own server.
+Steam networking is good at what it does, But because of the way it works, It causes users to be unable to favorite the server. There is a way to [fix/stop](https://steamcommunity.com/sharedfiles/filedetails/?id=1960312187) steam networking from preventing favoriting the server however.
 
-To find my server(or any other server that uses this method), you may either need to install a clientside mod to allow you to search/favorite for server's by name, or know at least one of the server's unique tags and enter said tag into the tag search bar.
+To find my server, you may either need to install a client-side mod to allow you to search for server's by name, or know at least one of the server's unique tags and enter said tag into the tag search bar.
 
-My server is nammed "Kasuxae's Random Shenanigans Server" and the most unique tag on the server is "advancedbots".
+My server is nammed "Kasuxae's Generic Server" and the most unique tag on the server is "advancedbots".
